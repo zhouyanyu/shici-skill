@@ -1,0 +1,4 @@
+interface:
+  display_name: "诗词精读与背诵"
+  short_description: "用 Mermaid 理解诗词画面与情感，辅助准确背诵、情境引用和写诗填词"
+  default_prompt: "使用 $shici 整理这本诗词书，以 Mermaid 展示画面与情感，帮助我背诵并逐步学习写诗填词。"
